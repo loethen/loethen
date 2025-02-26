@@ -1,16 +1,22 @@
-## Hi there 👋
+# Greetings! 📢 I’m loethen
 
-<!--
-**loethen/loethen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack engineer passionate about TypeScript and Python. Thanks to the amazing Next.js framework, I'm exploring indie dev life and building tools that inspire joy and productivity.
 
-Here are some ideas to get you started:
+## What I’m Working On ⚡ 
+  + 💻 **[FreeFocusGames.com](https://www.freefocusgames.com)**  - A free website I built to help people train their focus and concentration, and boost productivity. Check it out!
+  + ✍️ Writing on Medium - You can find me sharing thoughts and tech insights over on [Medium](https://medium.com/@@hungsouth). 
+  + 💬 Got questions about my projects? Hit me up at **[loethen.hs@gmail.com]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🦾
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" />](https://www.typescriptlang.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" />](https://nextjs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" />](https://reactjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" />](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="36" height="36" />](https://www.postgresql.org/)
+
+
+## What’s Cooking? 🍳
+- A **Chrome Extension** (coming soon to a browser near you!).  
+
