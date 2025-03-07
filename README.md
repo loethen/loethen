@@ -4,7 +4,7 @@ I'm a full-stack engineer passionate about TypeScript and Python. Thanks to the 
 
 ## What I’m Working On ⚡ 
   + 💻 **[FreeFocusGames.com](https://www.freefocusgames.com)**  - A free website I built to help people train their focus and concentration, and boost productivity. Check it out!
-  + ✍️ Writing on Medium - You can find me sharing thoughts and tech insights over on [Medium](https://medium.com/@@hungsouth). 
+  + ✍️ Writing on Medium - You can find me sharing thoughts and tech insights over on [Medium](https://medium.com/@loethen). 
   + 💬 Got questions about my projects? Hit me up at **loethen.hs@gmail.com**.
 
 ## Tech Stack 🦾
